@@ -1,2 +1,2 @@
-# Amazing_slide
-酷酷的滑屏交互效果
+# 3D_words
+3D文字几何体
